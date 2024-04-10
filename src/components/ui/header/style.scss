@@ -1,0 +1,7 @@
+@import '../../styles/variables.module';
+
+header {
+    background: $primary-color;
+    height: 100px;
+    grid-area: header;
+}

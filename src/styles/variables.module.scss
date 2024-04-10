@@ -1,0 +1,11 @@
+$primary-color: #0F52BA;
+$bg-color: #F9F9F9;
+$dark-color: #373737;
+$dark-color-text: #2C2C2C;
+
+:export {
+    primaryColor: $primary-color;
+    bgColor: $bg-color;
+    darkColor: $dark-color;
+    darkColorText: $dark-color-text;
+}
