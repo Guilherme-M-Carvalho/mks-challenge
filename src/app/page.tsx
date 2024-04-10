@@ -1,19 +1,7 @@
-import Card from "@/components/card";
-import {
-  Footer,
-  Header,
-  Main
-} from "@/components/ui";
-
+import Teste from "@/template/teste";
 
 export default function Home() {
-  return (
-    <>
-      <Header />
-      <Main>
-        <Card />
-      </Main>
-      <Footer />
-    </>
-  );
+
+
+  return (<Teste />);
 }
